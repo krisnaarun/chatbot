@@ -1,0 +1,380 @@
+Asking of what is Data Science.Data Science is an emerging field that sees its importance grow with each passing day. It is the latest buzzword in the IT world, and its demand in the market has been growing steadily. The demand for Data Scientists is proliferating, driven by the need for organizations to transform data into insights. Companies such as Google, Amazon, Microsoft, and Apple have been among the biggest recruiters of Data Scientists. Data Science is also becoming a sought-after field for IT professionals. 
+According to a recent report by Precedence Research, the demand for Data Science is anticipated to grow at a CAGR (Compound Annual Growth Rate) of 16.43% and hit the market value of a whopping 378.7 Billion over the forecast period 2022 to 2030.
+what is data science.what is data science: Data Science is a combination of mathematics, statistics, machine learning, and computer science. Data Science is collecting, analyzing and interpreting data to gather insights into the data that can help decision-makers make informed decisions.
+Data Science is used in almost every industry today that can predict customer behavior and trends and identify new opportunities. Businesses can use it to make informed decisions about product development and marketing. It is used as a tool to detect fraud and optimize processes. Governments also use Data Science to improve efficiency in the delivery of public services.
+In simple terms, Data Science helps to analyze data and extract meaningful insights from it by combining statistics & mathematics, programming skills, and subject expertise.
+importance of data science: Nowadays, organizations are overwhelmed with data. Data Science will help in extracting meaningful insights from that by combining various methods, technology, and tools. In the fields of e-commerce, finance, medicine, human resources, etc, businesses come across huge amounts of data. Data Science tools and technologies help them process all of them.
+Early in the 1960s, the term “Data Science” was coined to help comprehend and analyze the massive volumes of data being gathered at the time. Data science is a discipline that is constantly developing, employing computer science and statistical methods to acquire insights and generate valuable predictions in a variety of industries.
+Data science relies on statistics to capture and transform data patterns into usable evidence through the use of complex machine-learning techniques.
+Python, R, and SQL are the most common programming languages. To successfully execute a data science project, it is important to instill some level of programming knowledge. 
+Making accurate forecasts and estimates is made possible by Machine Learning, which is a crucial component of data science. You must have a firm understanding of machine learning if you want to succeed in the field of data science
+A clear understanding of the functioning of Databases, and skills to manage and extract data is a must in this domain. 
+You may quickly calculate and predict using mathematical models based on the data you already know. Modeling helps in determining which algorithm is best suited to handle a certain issue and how to train these models.
+Descriptive Analysis:
+It helps in accurately displaying data points for patterns that may appear that satisfy all of the data’s requirements. In other words, it involves organizing, ordering, and manipulating data to produce information that is insightful about the supplied data. It also involves converting raw data into a form that will make it simple to grasp and interpret.
+Predictive Analysis:
+It is the process of using historical data along with various techniques like data mining, statistical modeling, and machine learning to forecast future results. Utilizing trends in this data, businesses use predictive analytics to spot dangers and opportunities.
+Diagnostic Analysis:
+It is an in-depth examination to understand why something happened. Techniques like drill-down, data discovery, data mining, and correlations are used to describe it. Multiple data operations and transformations may be performed on a given data set to discover unique patterns in each of these techniques. 
+Prescriptive Analysis
+Prescriptive analysis advances the use of predictive data. It foresees what is most likely to occur and offers the best course of action for dealing with that result. It can assess the probable effects of various decisions and suggest the optimal course of action. It makes use of machine learning recommendation engines, complicated event processing, neural networks, simulation, graph analysis, and simulation.
+
+Data Science process:
+Obtaining the data
+The first step is to identify what type of data needs to be analyzed, and this data needs to be exported to an excel or a CSV file.
+
+Scrubbing the data
+It is essential because before you can read the data, you must ensure it is in a perfectly readable state, without any mistakes, with no missing or wrong values.
+
+Exploratory data Analysis
+Analyzing the data is done by visualizing the data in various ways and identifying patterns to spot anything out of the ordinary. To analyze the data, you must have excellent attention to detail to identify if anything is out of place.
+
+Modeling or Machine Learning
+A data engineer or scientist writes down instructions for the Machine Learning algorithm to follow based on the Data that has to be analyzed. The algorithm iteratively uses these instructions to come up with the correct output.
+
+Interpreting the data
+In this step, you uncover your findings and present them to the organization. The most critical skill in this would be your ability to explain your results.
+Data Science tools are that will assist Data Scientists in making their job easier
+Data Analysis tools – Informatica PowerCenter, Rapidminer, Excel, SAS
+Data Visualization tools– Tableau, Qlikview, RAW, Jupyter
+Data Warehousing tools– Apache Hadoop, Informatica/Talend, Microsoft HD insights
+Data Modelling tools– H2O.ai, Datarobot, Azure ML Studio, Mahout
+Benefits of Data Science in Business
+Improves business predictions
+Interpretation of complex data
+Better decision making
+Product innovation 
+Improves data security
+Development of user-centric products
+Applications of Data Science: Product Recommendation, Future Forecasting, Fraud and Risk Detection, Self-Driving Car, Image Recognition, Speech to text Convert
+
+Product Recommendation
+The product recommendation technique can influence customers to buy similar products. For example, a salesperson of Big Bazaar is trying to increase the store’s sales by bundling the products together and giving discounts. So he bundled shampoo and conditioner together and gave a discount on them. Furthermore, customers will buy them together for a discounted price.
+
+Future Forecasting
+It is one of the widely applied techniques in Data Science. On the basis of various types of data that are collected from various sources weather forecasting and future forecasting are done. 
+
+Fraud and Risk Detection
+It is one of the most logical applications of Data Science. Since online transactions are booming, losing your data is possible. For example, Credit card fraud detection depends on the amount, merchant, location, time, and other variables. If any of them looks unnatural, the transaction will be automatically canceled, and it will block your card for 24 hours or more.
+
+Self-Driving Car
+The self-driving car is one of the most successful inventions in today’s world. We train our car to make decisions independently based on the previous data. In this process, we can penalize our model if it does not perform well. The car becomes more intelligent with time when it starts learning through all the real-time experiences.
+
+Image Recognition
+When you want to recognize some images, data science can detect the object and classify it. The most famous example of image recognition is face recognition – If you tell your smartphone to unblock it, it will scan your face. So first, the system will detect the face, then classify your face as a human face, and after that, it will decide if the phone belongs to the actual owner or not.
+
+Speech to text Convert
+Speech recognition is a process of understanding natural language by the computer. We are quite familiar with virtual assistants like Siri, Alexa, and Google Assistant. 
+
+Healthcare
+Data Science helps in various branches of healthcare such as Medical Image Analysis, Development of new drugs, Genetics and Genomics, and providing virtual assistance to patients. 
+
+Search Engines
+Google, Yahoo, Bing, Ask, etc. provides us with a lot of results within a fraction of a second. It is made possible using various data science algorithms.
+
+data science jobs:  Data science roles can vary, including data scientist, machine learning engineer, data analyst, data engineer, and more. Each role may focus on different aspects of the data science pipeline.
+
+Role of a Data Scientist
+As businesses generate more data than ever, it becomes clear that data is a valuable asset. However, extracting meaningful insights from data requires analyzing the data, which is where Data Scientists come in. A Data Scientist is a specialist in collecting, organizing, analyzing, and interpreting data to find trends, patterns, and correlations.
+
+Data Scientists play an essential role in ensuring that organizations make informed decisions. They work closely with business leaders to identify specific objectives, such as identifying customer segmentation and driving improvements in products and services. Using advanced machine learning algorithms and statistical models, Data Scientists can examine large datasets to uncover patterns and insights that help organizations make sound decisions.
+
+Data Scientists generally have a combination of technical skills and knowledge of interpreting and visualizing data. They must have expertise in statistical analysis, programming languages, machine learning algorithms, and database systems. 
+
+Let’s have a look at an overview of the responsibilities handled by a professional Data Scientist.
+
+Gathering, cleaning, and organizing data to be used in predictive and prescriptive models
+Analyzing vast amounts of information to discover trends and patterns
+Using programming languages to structure the data and convert it into usable information
+Working with stakeholders to understand business problems and develop data-driven solutions
+Developing predictive models using statistical models to forecast future trends
+Building, maintaining, and monitoring machine learning models
+Developing and using advanced machine learning algorithms and other analytical methods to create data-driven solutions
+Communicating data-driven solutions to stakeholders
+Discover hidden patterns and trends in massive datasets using a variety of data mining tools
+Developing and validating data solutions through data visualizations, reports, dashboards, and presentations
+In conclusion, the role of a Data Scientist is critical for businesses looking to make data-driven decisions. Data Scientists are responsible for collecting, organizing, analyzing, and interpreting data to identify trends and correlations. They also develop data processing pipelines, design reports, and dashboards, and develop models to forecast future trends. To succeed in the field, they need to understand the business context and the customer’s needs.
+
+Steps to Become a Data Scientist
+Data Science is one of the fastest-growing sectors in the tech industry and is a field where skilled professionals are in high demand. You might be curious about the process of becoming a Data Scientist if you’re thinking about a career in this field. Here, we’ll provide an overview of what it takes to get started and become successful in this field.
+
+Learn the Basics: The first step to becoming a Data Scientist is understanding the fundamentals of Data Science and Analytics. You’ll need to understand data management, statistics, mathematics, and programming topics. You can find plenty of online resources and courses that teach these topics.
+Develop Practical Skills: Once you’ve gained the foundational understanding of data science, you’ll need to develop practical skills that will come in handy in your career. For instance, familiarize yourself with programming languages, like R and Python, and coding and database management systems. You may also want to practice machine learning and data analysis techniques.
+Earn a Post Graduate Certificate or a Degree: Most employers prefer to hire data scientists with a post-graduate or master’s degree in a corresponding field, like computer science or applied mathematics. Earning a Data Science or Analytics degree can help you acquire the knowledge, expertise, and skills required to become a successful Data Scientist.
+Work on Projects: One of the best ways to develop your Data Science skills is to work on projects. You can find projects online or reach out to organizations looking for Data Scientists. Working on projects will help you gain experience in data analysis, machine learning, and other Data Science activities.
+Stay Up-to-Date: To stay ahead of the curve, you’ll need to stay in the know about the latest Data Science trends. Keep an eye on industry news and subscribe to prominent Data Science publications.
+Becoming a Data Scientist is achievable with the right amount of dedication and hard work. By following the tips outlined above, you’ll be on your way to a lucrative Data Science career.
+
+
+Data science is an interdisciplinary academic field[1] that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data.[2]
+
+Data science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).[3] Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.[4]
+
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" to "understand and analyze actual phenomena" with data.[5] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[7][8]
+
+A data scientist is a professional who creates programming code and combines it with statistical knowledge to create insights from data.[9]
+
+Foundations
+Data science is an interdisciplinary field[10] focused on extracting knowledge from typically large data sets and applying the knowledge and insights from that data to solve problems in a wide range of application domains. The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, data visualization, information visualization, data sonification, data integration, graphic design, complex systems, communication and business.[11][12] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human–computer interaction: users should be able to intuitively control and explore data.[13][14] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[15]
+
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[16] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[17] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g., from images, text, sensors, transactions, customer information, etc.) and emphasizes prediction and action.[18] Andrew Gelman of Columbia University has described statistics as a non-essential part of data science.[19]
+
+Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data-science program. He describes data science as an applied field growing out of traditional statistics.[20]
+
+Etymology
+Early usage
+In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[20] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C. F. Jeff Wu used the term "data science" for the first time as an alternative name for statistics.[21] Later, attendees at a 1992 statistics symposium at the University of Montpellier  II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[22][23]
+
+The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name to computer science.[6] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[6] However, the definition was still in flux. After the 1985 lecture at the Chinese Academy of Sciences in Beijing, in 1997 C. F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting or limited to describing data.[24] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[23]
+
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[6][25]
+
+Modern usage
+In 2012, technologists Thomas H. Davenport and DJ Patil declared "Data Scientist: The Sexiest Job of the 21st Century",[26] a catchphrase that was picked up even by major-city newspapers like the New York Times[27] and the Boston Globe.[28] A decade later, they reaffirmed it, stating that "the job is more in demand than ever with employers".[29]
+
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[30] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[25] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched the Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[25] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[31]
+
+The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[32] Though it was used by the National Science Board in their 2005 report "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century", it referred broadly to any key role in managing a digital data collection.[33]
+
+There is still no consensus on the definition of data science, and it is considered by some to be a buzzword.[34] Big data is a related marketing term.[35] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[36]
+
+Data Science and Data Analysis
+Data science and data analysis are both important disciplines in the field of data management and analysis, but they differ in several key ways. While both fields involve working with data, data science is more of an interdisciplinary field that involves the application of statistical, computational, and machine learning methods to extract insights from data and make predictions, while data analysis is more focused on the examination and interpretation of data to identify patterns and trends.[37][38]
+
+Data analysis typically involves working with smaller, structured datasets to answer specific questions or solve specific problems. This can involve tasks such as data cleaning, data visualization, and exploratory data analysis to gain insights into the data and develop hypotheses about relationships between variables. Data analysts typically use statistical methods to test these hypotheses and draw conclusions from the data. For example, a data analyst might analyze sales data to identify trends in customer behavior and make recommendations for marketing strategies.[37]
+
+Data science, on the other hand, is a more complex and iterative process that involves working with larger, more complex datasets that often require advanced computational and statistical methods to analyze. Data scientists often work with unstructured data such as text or images and use machine learning algorithms to build predictive models and make data-driven decisions. In addition to statistical analysis, data science often involves tasks such as data preprocessing, feature engineering, and model selection. For instance, a data scientist might develop a recommendation system for an e-commerce platform by analyzing user behavior patterns and using machine learning algorithms to predict user preferences.[38][39]
+
+While data analysis focuses on extracting insights from existing data, data science goes beyond that by incorporating the development and implementation of predictive models to make informed decisions. Data scientists are often responsible for collecting and cleaning data, selecting appropriate analytical techniques, and deploying models in real-world scenarios. They work at the intersection of mathematics, computer science, and domain expertise to solve complex problems and uncover hidden patterns in large datasets.[38]
+
+Despite these differences, data science and data analysis are closely related fields and often require similar skill sets. Both fields require a solid foundation in statistics, programming, and data visualization, as well as the ability to communicate findings effectively to both technical and non-technical audiences. Moreover, both fields benefit from critical thinking and domain knowledge, as understanding the context and nuances of the data is essential for accurate analysis and modeling.
+
+In summary, data analysis and data science are distinct yet interconnected disciplines within the broader field of data management and analysis. Data analysis focuses on extracting insights and drawing conclusions from structured data, while data science involves a more comprehensive approach that combines statistical analysis, computational methods, and machine learning to extract insights, build predictive models, and drive data-driven decision-making. Both fields play vital roles in leveraging the power of data to understand patterns, make informed decisions, and solve complex problems across various domains.
+Machine learning (ML) is a subdomain of artificial intelligence (AI) that focuses on developing systems that learn—or improve performance—based on the data they ingest. Artificial intelligence is a broad word that refers to systems or machines that resemble human intelligence. Machine learning and AI are frequently discussed together, and the terms are occasionally used interchangeably, although they do not signify the same thing. A crucial distinction is that, while all machine learning is AI, not all AI is machine learning.
+Machine learning (ML) is a subdomain of artificial intelligence (AI) that focuses on developing systems that learn—or improve performance—based on the data they ingest. Artificial intelligence is a broad word that refers to systems or machines that resemble human intelligence. Machine learning and AI are frequently discussed together, and the terms are occasionally used interchangeably, although they do not signify the same thing. A crucial distinction is that, while all machine learning is AI, not all AI is machine learning.
+Supervised algorithms: These are the algorithms which learn from the labelled data, e.g. images labelled with dog face or not. Algorithm depends on supervised or labelled data. e.g. regression, object detection, segmentation.
+Non-Supervised algorithms: These are the algorithms which learn from the non labelled data, e.g. bunch of images given to make a similar set of images. e.g. clustering, dimensionality reduction etc.
+Semi-Supervised algorithms: Algorithms that uses both supervised or non-supervised data. Majority portion of data use for these algorithms are not supervised data. e.g. anamoly detection.
+Machine learning is used to make decisions based on data. By modelling the algorithms on the bases of historical data, Algorithms find the patterns and relationships that are difficult for humans to detect. These patterns are now further use for the future references to predict solution of unseen problems.
+
+Data is a crucial component in the field of Machine Learning. It refers to the set of observations or measurements that can be used to train a machine-learning model. The quality and quantity of data available for training and testing play a significant role in determining the performance of a machine-learning model. Data can be in various forms such as numerical, categorical, or time-series data, and can come from various sources such as databases, spreadsheets, or APIs. Machine learning algorithms use data to learn patterns and relationships between input variables and target outputs, which can then be used for prediction or classification tasks.
+
+Data is typically divided into two types: 
+
+Labeled data
+Unlabeled data
+Labeled data includes a label or target variable that the model is trying to predict, whereas unlabeled data does not include a label or target variable. The data used in machine learning is typically numerical or categorical. Numerical data includes values that can be ordered and measured, such as age or income. Categorical data includes values that represent categories, such as gender or type of fruit.
+
+Data can be divided into training and testing sets. The training set is used to train the model, and the testing set is used to evaluate the performance of the model. It is important to ensure that the data is split in a random and representative way.
+Data preprocessing is an important step in the machine learning pipeline. This step can include cleaning and normalizing the data, handling missing values, and feature selection or engineering.
+
+
+DATA: It can be any unprocessed fact, value, text, sound, or picture that is not being interpreted and analyzed. Data is the most important part of all Data Analytics, Machine Learning, and Artificial Intelligence. Without data, we can’t train any model and all modern research and automation will go in vain. Big Enterprises are spending lots of money just to gather as much certain data as possible. 
+
+Example: Why did Facebook acquire WhatsApp by paying a huge price of $19 billion?
+
+The answer is very simple and logical – it is to have access to the users’ information that Facebook may not have but WhatsApp will have. This information about their users is of paramount importance to Facebook as it will facilitate the task of improvement in their services. 
+
+INFORMATION: Data that has been interpreted and manipulated and has now some meaningful inference for the users. 
+
+KNOWLEDGE: Combination of inferred information, experiences, learning, and insights. Results in awareness or concept building for an individual or organization. 
+
+
+
+How do we split data in Machine Learning?
+
+Training Data: The part of data we use to train our model. This is the data that your model actually sees(both input and output) and learns from.
+Validation Data: The part of data that is used to do a frequent evaluation of the model, fit on the training dataset along with improving involved hyperparameters (initially set parameters before the model begins learning). This data plays its part when the model is actually training.
+Testing Data: Once our model is completely trained, testing data provides an unbiased evaluation. When we feed in the inputs of Testing data, our model will predict some values(without seeing actual output). After prediction, we evaluate our model by comparing it with the actual output present in the testing data. This is how we evaluate and see how much our model has learned from the experiences feed in as training data, set at the time of training.
+
+
+Consider an example: 
+
+
+There’s a Shopping Mart Owner who conducted a survey for which he has a long list of questions and answers that he had asked from the customers, this list of questions and answers is DATA. Now every time when he wants to infer anything and can’t just go through each and every question of thousands of customers to find something relevant as it would be time-consuming and not helpful. In order to reduce this overhead and time wastage and to make work easier, data is manipulated through software, calculations, graphs, etc. as per your own convenience, this inference from manipulated data is Information. So, Data is a must for Information. Now Knowledge has its role in differentiating between two individuals having the same information. Knowledge is actually not technical content but is linked to the human thought process. 
+
+Different Forms of Data 
+
+Numeric Data : If a feature represents a characteristic measured in numbers , it is called a numeric feature.
+Categorical Data : A categorical feature is an attribute that can take on one of the limited , and usually fixed number of possible values on the basis of some qualitative property . A categorical feature is also called a nominal feature.
+Ordinal Data : This denotes a nominal variable with categories falling in an ordered list . Examples include clothing sizes such as small, medium , and large , or a measurement of customer satisfaction on a scale from “not at all happy” to “very happy”.
+                                                                                                                                                                         
+Properties of Data – 
+Volume: Scale of Data. With the growing world population and technology at exposure, huge data is being generated each and every millisecond.
+Variety: Different forms of data – healthcare, images, videos, audio clippings.
+Velocity: Rate of data streaming and generation.
+Value: Meaningfulness of data in terms of information that researchers can infer from it.
+Veracity: Certainty and correctness in data we are working on.
+Viability: The ability of data to be used and integrated into different systems and processes.
+Security: The measures taken to protect data from unauthorized access or manipulation.
+Accessibility: The ease of obtaining and utilizing data for decision-making purposes.
+Integrity: The accuracy and completeness of data over its entire lifecycle.
+Usability: The ease of use and interpretability of data for end-users.
+Some facts about Data:  
+
+As compared to 2005, 300 times i.e. 40 Zettabytes (1ZB=10^21 bytes) of data will be generated by 2020.
+By 2011, the healthcare sector has a data of 161 Billion Gigabytes
+400 Million tweets are sent by about 200 million active users per day
+Each month, more than 4 billion hours of video streaming is done by the users.
+30 Billion different types of content are shared every month by the user.
+It is reported that about 27% of data is inaccurate and so 1 in 3 business idealists or leaders don’t trust the information on which they are making decisions.
+The above-mentioned facts are just a glimpse of the actually existing huge data statistics. When we talk in terms of real-world scenarios, the size of data currently presents and is getting generated each and every moment is beyond our mental horizons to imagine. 
+
+Example:
+
+Imagine you’re working for a car manufacturing company and you want to build a model that can predict the fuel efficiency of a car based on the weight and the engine size. In this case, the target variable (or label) is the fuel efficiency, and the features (or input variables) are the weight and engine size. You will collect data from different car models, with corresponding weight and engine size, and their fuel efficiency. This data is labeled and it’s in the form of (weight,engine size,fuel efficiency) for each car. After having your data ready, you will then split it into two sets: training set and testing set, the training set will be used to train the model and the testing set will be used to evaluate the performance of the model. Preprocessing could be needed for example, to fill missing values or handle outliers that might affect your model accuracy.
+
+Implementation:
+Example: 1
+
+
+# Example input data
+from sklearn.linear_model import LogisticRegression
+X = [[1, 2], [2, 3], [3, 4], [4, 5], [5, 6]]
+y = [0, 0, 1, 1, 1]
+ 
+# Train a model
+model = LogisticRegression()
+model.fit(X, y)
+ 
+# Make a prediction
+prediction = model.predict([[6, 7]])[0]
+print(prediction)
+Output:
+
+0,1
+If you run the code I provided, the output will be the prediction made by the model. In this case, the prediction will be either 0 or 1, depending on the specific parameters learned by the model during training.
+
+For example, if the model learned that input data with a high second element is more likely to have a label of 1, then the prediction for [6, 7] would be 1.
+
+ 
+
+Advantages Or Disadvantages:
+Advantages of using data in Machine Learning:
+Improved accuracy: With large amounts of data, machine learning algorithms can learn more complex relationships between inputs and outputs, leading to improved accuracy in predictions and classifications.
+Automation: Machine learning models can automate decision-making processes and can perform repetitive tasks more efficiently and accurately than humans.
+Personalization: With the use of data, machine learning algorithms can personalize experiences for individual users, leading to increased user satisfaction.
+Cost savings: Automation through machine learning can result in cost savings for businesses by reducing the need for manual labor and increasing efficiency.
+Disadvantages of using data in Machine Learning:
+Bias: Data used for training machine learning models can be biased, leading to biased predictions and classifications.
+Privacy: Collection and storage of data for machine learning can raise privacy concerns and can lead to security risks if the data is not properly secured.
+Quality of data: The quality of data used for training machine learning models is critical to the performance of the model. Poor quality data can lead to inaccurate predictions and classifications.
+Lack of interpretability: Some machine learning models can be complex and difficult to interpret, making it challenging to understand how they are making decisions.
+Use of  Machine Learning :
+
+Machine learning is a powerful tool that can be used in a wide range of applications. Here are some of the most common uses of machine learning:
+
+Predictive modeling: Machine learning can be used to build predictive models that can predict future outcomes based on historical data. This can be used in many applications, such as stock market prediction, fraud detection, weather forecasting, and customer behavior prediction.
+Image recognition: Machine learning can be used to train models that can recognize objects, faces, and other patterns in images. This is used in many applications, such as self-driving cars, facial recognition systems, and medical image analysis.
+Natural language processing: Machine learning can be used to analyze and understand natural language, which is used in many applications, such as chatbots, voice assistants, and sentiment analysis.
+Recommendation systems: Machine learning can be used to build recommendation systems that can suggest products, services, or content to users based on their past behavior or preferences.
+Data analysis: Machine learning can be used to analyze large datasets and identify patterns and insights that would be difficult or impossible for humans to detect.
+Robotics: Machine learning can be used to train robots to perform tasks autonomously, such as navigating through a space or manipulating objects.
+Issues of using data in Machine Learning:
+
+Data quality: One of the biggest issues with using data in machine learning is ensuring that the data is accurate, complete, and representative of the problem domain. Low-quality data can result in inaccurate or biased models.
+Data quantity: In some cases, there may not be enough data available to train an accurate machine learning model. This is especially true for complex problems that require a large amount of data to accurately capture all the relevant patterns and relationships.
+Bias and fairness: Machine learning models can sometimes perpetuate bias and discrimination if the training data is biased or unrepresentative. This can lead to unfair outcomes for certain groups of people, such as minorities or women.
+Overfitting and underfitting: Overfitting occurs when a model is too complex and fits the training data too closely, resulting in poor generalization to new data. Underfitting occurs when a model is too simple and does not capture all the relevant patterns in the data.
+Privacy and security: Machine learning models can sometimes be used to infer sensitive information about individuals or organizations, raising concerns about privacy and security.
+Interpretability: Some machine learning models, such as deep neural networks, can be difficult to interpret and understand, making it challenging to explain the reasoning behind their predictions and decisions.
+While a number of definitions of artificial intelligence (AI) have surfaced over the last few decades, John McCarthy offers the following definition in this 2004 paper (link resides outside ibm.com), " It is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable."
+
+However, decades before this definition, the birth of the artificial intelligence conversation was denoted by Alan Turing's seminal work, "Computing Machinery and Intelligence"(link resides outside ibm.com), which was published in 1950. In this paper, Turing, often referred to as the "father of computer science", asks the following question, "Can machines think?"  From there, he offers a test, now famously known as the "Turing Test", where a human interrogator would try to distinguish between a computer and human text response. While this test has undergone much scrutiny since its publish, it remains an important part of the history of AI as well as an ongoing concept within philosophy as it utilizes ideas around linguistics.
+
+Stuart Russell and Peter Norvig then proceeded to publish, Artificial Intelligence: A Modern Approach (link resides outside ibm.com), becoming one of the leading textbooks in the study of AI. In it, they delve into four potential goals or definitions of AI, which differentiates computer systems on the basis of rationality and thinking vs. acting:
+
+Human approach:
+
+Systems that think like humans
+Systems that act like humans
+Ideal approach:
+
+Systems that think rationally
+Systems that act rationally
+Alan Turing’s definition would have fallen under the category of “systems that act like humans.”
+
+At its simplest form, artificial intelligence is a field, which combines computer science and robust datasets, to enable problem-solving. It also encompasses sub-fields of machine learning and deep learning, which are frequently mentioned in conjunction with artificial intelligence. These disciplines are comprised of AI algorithms which seek to create expert systems which make predictions or classifications based on input data.
+
+Over the years, artificial intelligence has gone through many cycles of hype, but even to
+skeptics, the release of OpenAI’s ChatGPT seems to mark a turning point. The last time generative AI loomed this large, the breakthroughs were in computer vision, but now the leap forward is in natural language processing. And it’s not just language: Generative models can also learn the grammar of software code, molecules, natural images, and a variety of other data types.
+
+The applications for this technology are growing every day, and we’re just starting to
+explore the possibilities. But as the hype around the use of AI in business takes off,
+conversations around ethics become critically important. To read more on where IBM stands within the conversation around AI ethics, read more here.
+
+Now available: watsonx
+Multiply the power of AI for your enterprise with IBM’s next-generation AI and data platform.
+
+Get started with watsonx 
+Related content
+IBM watsonx Orchestrate
+
+IBM watsonx Assistant
+
+Explore Gen AI learning for developers
+
+How to build responsible AI at scale
+Explore the guide
+Types of artificial intelligence—weak AI vs. strong AI
+Weak AI—also called Narrow AI or Artificial Narrow Intelligence (ANI)—is AI trained and focused to perform specific tasks. Weak AI drives most of the AI that surrounds us today. ‘Narrow’ might be a more accurate descriptor for this type of AI as it is anything but weak; it enables some very robust applications, such as Apple's Siri, Amazon's Alexa, IBM watson, and autonomous vehicles.
+
+Strong AI is made up of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI). Artificial general intelligence (AGI), or general AI, is a theoretical form of AI where a machine would have an intelligence equaled to humans; it would have a self-aware consciousness that has the ability to solve problems, learn, and plan for the future. Artificial Super Intelligence (ASI)—also known as superintelligence—would surpass the intelligence and ability of the human brain. While strong AI is still entirely theoretical with no practical examples in use today, that doesn't mean AI researchers aren't also exploring its development. In the meantime, the best examples of ASI might be from science fiction, such as HAL, the superhuman, rogue computer assistant in 2001: A Space Odyssey.
+
+Deep learning vs. machine learning
+Since deep learning and machine learning tend to be used interchangeably, it’s worth noting the nuances between the two. As mentioned above, both deep learning and machine learning are sub-fields of artificial intelligence, and deep learning is actually a sub-field of machine learning.
+
+Deep learning is actually comprised of neural networks. “Deep” in deep learning refers to a neural network comprised of more than three layers—which would be inclusive of the inputs and the output—can be considered a deep learning algorithm. This is generally represented using the diagram below.
+
+The way in which deep learning and machine learning differ is in how each algorithm learns. Deep learning automates much of the feature extraction piece of the process, eliminating some of the manual human intervention required and enabling the use of larger data sets. You can think of deep learning as "scalable machine learning" as Lex Fridman noted in same MIT lecture from above. Classical, or "non-deep", machine learning is more dependent on human intervention to learn. Human experts determine the hierarchy of features to understand the differences between data inputs, usually requiring more structured data to learn.
+
+"Deep" machine learning can leverage labeled datasets, also known as supervised learning, to inform its algorithm, but it doesn’t necessarily require a labeled dataset. It can ingest unstructured data in its raw form (e.g. text, images), and it can automatically determine the hierarchy of features which distinguish different categories of data from one another. Unlike machine learning, it doesn't require human intervention to process data, allowing us to scale machine learning in more interesting ways.
+
+ 
+
+Diagram of a deep neural network
+The rise of generative models
+Generative AI refers to deep-learning models that can take raw data — say, all of Wikipedia or the collected works of Rembrandt — and “learn” to generate statistically probable outputs when prompted. At a high level, generative models encode a simplified
+representation of their training data and draw from it to create a new work that’s similar,
+but not identical, to the original data.
+
+Generative models have been used for years in statistics to analyze numerical data. The rise of deep learning, however, made it possible to extend them to images, speech, and other complex data types. Among the first class of models to achieve this cross-over feat were variational autoencoders, or VAEs, introduced in 2013. VAEs were the first deep-learning models to be widely used for generating realistic images and speech.
+
+“VAEs opened the floodgates to deep generative modeling by making models easier to
+scale,” said Akash Srivastava, an expert on generative AI at the MIT-IBM Watson AI Lab.
+“Much of what we think of today as generative AI started here.”
+
+Early examples of models, like GPT-3, BERT, or DALL-E 2, have shown what’s possible. The future is models that are trained on a broad set of unlabeled data that can be used for different tasks, with minimal fine-tuning. Systems that execute specific tasks in a single domain are giving way to broad AI that learns more generally and works across domains and problems. Foundation models, trained on large, unlabeled datasets and fine-tuned for an array of applications, are driving this shift.
+
+When it comes to generative AI, it is predicted that foundation models will dramatically
+accelerate AI adoption in enterprise. Reducing labeling requirements will make it much
+easier for businesses to dive in, and the highly accurate, efficient AI-driven automation they enable will mean that far more companies will be able to deploy AI in a wider range of mission-critical situations. For IBM, the hope is that the power of foundation models can eventually be brought to every enterprise in a frictionless hybrid-cloud environment.
+
+Artificial intelligence applications
+There are numerous, real-world applications of AI systems today. Below are some of the most common use cases:
+
+Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to process human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search—e.g. Siri—or provide more accessibility around texting. 
+Customer service:  Online virtual agents are replacing human agents along the customer journey. They answer frequently asked questions (FAQs) around topics, like shipping, or provide personalized advice, cross-selling products or suggesting sizes for users, changing the way we think about customer engagement across websites and social media platforms. Examples include messaging bots on e-commerce sites with virtual agents, messaging apps, such as Slack and Facebook Messenger, and tasks usually done by virtual assistants and voice assistants.
+Computer vision: This AI technology enables computers and systems to derive meaningful information from digital images, videos and other visual inputs, and based on those inputs, it can take action. This ability to provide recommendations distinguishes it from image recognition tasks. Powered by convolutional neural networks, computer vision has applications within photo tagging in social media, radiology imaging in healthcare, and self-driving cars within the automotive industry.  
+Recommendation engines: Using past consumption behavior data, AI algorithms can help to discover data trends that can be used to develop more effective cross-selling strategies. This is used to make relevant add-on recommendations to customers during the checkout process for online retailers.
+Automated stock trading: Designed to optimize stock portfolios, AI-driven high-frequency trading platforms make thousands or even millions of trades per day without human intervention.
+ 
+History of artificial intelligence: Key dates and names
+The idea of 'a machine that thinks' dates back to ancient Greece. But since the advent of electronic computing (and relative to some of the topics discussed in this article) important events and milestones in the evolution of artificial intelligence include the following:
+
+1950: Alan Turing publishes Computing Machinery and Intelligence. In the paper, Turing—famous for breaking the Nazi's ENIGMA code during WWII—proposes to answer the question 'can machines think?' and introduces the Turing Test to determine if a computer can demonstrate the same intelligence (or the results of the same intelligence) as a human. The value of the Turing test has been debated ever since.
+1956: John McCarthy coins the term 'artificial intelligence' at the first-ever AI conference at Dartmouth College. (McCarthy would go on to invent the Lisp language.) Later that year, Allen Newell, J.C. Shaw, and Herbert Simon create the Logic Theorist, the first-ever running AI software program.
+1967: Frank Rosenblatt builds the Mark 1 Perceptron, the first computer based on a neural network that 'learned' though trial and error. Just a year later, Marvin Minsky and Seymour Papert publish a book titled Perceptrons, which becomes both the landmark work on neural networks and, at least for a while, an argument against future neural network research projects.
+1980s: Neural networks which use a backpropagation algorithm to train itself become widely used in AI applications.
+1997: IBM's Deep Blue beats then world chess champion Garry Kasparov, in a chess match (and rematch).
+2011: IBM watson beats champions Ken Jennings and Brad Rutter at Jeopardy!
+2015: Baidu's Minwa supercomputer uses a special kind of deep neural network called a convolutional neural network to identify and categorize images with a higher rate of accuracy than the average human.
+2016: DeepMind's AlphaGo program, powered by a deep neural network, beats Lee Sodol, the world champion Go player, in a five-game match. The victory is significant given the huge number of possible moves as the game progresses (over 14.5 trillion after just four moves!). Later, Google purchased DeepMind for a reported USD 400 million.
+2023: A rise in large language models, or LLMs, such as ChatGPT, create an
+enormous change in performance of AI and its potential to drive enterprise value.
+With these new generative AI practices, deep-learning models can be pre-trained on
+vast amounts of raw, unlabeled data.
+
+
+
